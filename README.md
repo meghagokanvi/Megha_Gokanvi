@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Gokanvi</h1>
-<h3 align="center">🎓 I'm a student at KLE Technological University, pursuing Bachelors in Computer science Engineering. 💻Passionate about coding, problem-solving, and exploring new technologies. 💡I'm a curious learner at heart, always eager to explore new technologies. 📚 Beyond academics, I had the privilege to participate in PUPA (Programming and Problem Solving Analysis) held at KLE Technological university Hubali campus, Where I showcased my project- A Content Delivery System. Additionally, I take coding challenges in HackerRank to challenge myself. Let's connect and innovate together! 🚀😊</h3>
+<h3 align="center">🎓 I'm a student at KLE Technological University, pursuing Bachelors in Computer science Engineering. 💻Passionate about coding, problem-solving, and exploring new technologies. 💡I'm a curious learner at heart, always eager to explore new technologies. Let's connect and innovate together! 🚀😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghagokanvi&label=Profile%20views&color=0e75b6&style=flat" alt="meghagokanvi" /> </p>
 
